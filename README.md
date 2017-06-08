@@ -27,7 +27,9 @@ Yes, jvm's garbage collection should be an advantage as in java we can return ou
 Naturally I expect to see good numbers for c++ from the begining, while I know I will have to let the jvm's JIT actuate to measure results for java.
 
 
+## Planing
 
+I plan to build this during August 2017.
 
 
 
