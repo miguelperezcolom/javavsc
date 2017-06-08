@@ -38,7 +38,7 @@ I plan to build this during August 2017.
 
 Performance is just a battle.
 
-There are other considerations that we must think of before deciding to start a development with c++ or java.
+There are other considerations that we must think about before deciding to start a development with c++ or java.
 
 I think no one would seriously consider to start a development with c++ unless he is crazy: 
 
