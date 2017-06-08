@@ -43,6 +43,8 @@ I think no one would seriously consider to start a development with c++ unless h
 - lack of trained developers
 - horrible compilation times
 - c++ is a really ugly language (not c which I like, but c++ seems to me like a bunch of patches to bring OOP to c and with a lot of misunderstandings)
+- very poor ecosystem
+- you must be very much more careful when programming with c++
 
 Or unless he wants to develop a driver, a controller or something like this.
 
