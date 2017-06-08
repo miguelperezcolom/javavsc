@@ -54,6 +54,8 @@ The other reason to use c++ is performance, but this is something I think is a m
 
 This project is born to verify this last point.
 
+There are so many benchmarks and opinions that I think this is something that is worth to check by ourselves.
+
 
 
 
