@@ -3,6 +3,8 @@ real case java versus c++
 
 Here I will try to compare java vs c++ performance with a real life case: a hotel availability request.
 
+I think I will also add some microbenchmarks.
+
 ## Performance definition
 
 For me performance means response time.
