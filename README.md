@@ -48,7 +48,7 @@ I think no one would seriously consider to start a development with c++ unless h
 - very poor ecosystem
 - you must be very much more careful when programming with c++
 
-Or unless he wants to develop a driver, a controller or something like this. Or if you plan to develop somethink that must run using only 4k ram.
+Or unless he wants to develop a driver, a controller or something like this. Or if you plan to develop something that must run using only 4k ram.
 
 The other reason to use c++ is performance, but this is something I think is a myth and I want to check by myself.
 
