@@ -56,6 +56,8 @@ This project is born to verify this last point.
 
 There are so many benchmarks and opinions that I think this is something that is worth to check by ourselves.
 
+If we do it with a real case like a hotel availability request it will be better.
+
 
 
 
