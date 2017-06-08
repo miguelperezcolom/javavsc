@@ -20,7 +20,7 @@ I do not expect to see STWs (stop the world) pauses due to full garbage collecto
 
 My idea today is that performance should be the same, or perhaps a little better in java.
 
-This idea is based in the fact to string handling in java, because of java's JIT intelligence and because of jvm's garbage collection.
+This idea is because of string handling in java, because of java's JIT intelligence and because of jvm's garbage collection.
 
 Yes, jvm's garbage collection should be an advantage as in java we can return our results as soon as we have built them, while with c++ the method execution won't finish until we have disposed of all our temporary objects. I think I will add also run the test measuring only the time to build the results, discarding c++'s objects disposing time, as we can argue that the important thing is the time that our client need to get the response and we could deliver the response and clean later. 
 
