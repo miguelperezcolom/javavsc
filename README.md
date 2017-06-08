@@ -48,6 +48,8 @@ Or unless he wants to develop a driver, a controller or something like this.
 
 The other reason to use c++ is performance, but this is something I think is a myth and I want to check by myself.
 
+This project is born to verify this last point.
+
 
 
 
