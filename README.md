@@ -32,5 +32,22 @@ Naturally I expect to see good numbers for c++ from the begining, while I know I
 I plan to build this during August 2017.
 
 
+## Java vs c++ complete war
+
+Performance is just a battle.
+
+There are other considerations that we must think of before deciding to start a development with c++ or java.
+
+I think no one would seriously consider to start a development with c++ unless he is crazy: 
+
+- lack of trained developers
+- horrible compilation times
+- c++ is a really ugly language (not c which I like, but c++ seems to me like a bunch of patches to bring OOP to c and with a lot of misunderstandings)
+
+Or unless he wants to develop a driver, a controller or something like this.
+
+The other reason to use c++ is performance, but this is something I think is a myth and I want to check by myself.
+
+
 
 
