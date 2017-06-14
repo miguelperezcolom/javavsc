@@ -48,7 +48,7 @@ public class AddIntegers
         return total;
     }
 
-    public static double test3(int pos) {
+    public static String test3(int pos) {
 
         int NDIGITS = 100;          //max digits to compute
         int LEN = (NDIGITS/4+1)*14;
@@ -86,6 +86,6 @@ public class AddIntegers
                 + " took " + (t1 - t0) + " ns.");
 
 
-        return new Double(h.toString());
+        return h.toString();
     }
 }
