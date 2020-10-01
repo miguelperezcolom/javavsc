@@ -1,5 +1,6 @@
 # java vs c++
 real case java versus c++
+amazing code
 
 Here I will try to compare java vs c++ performance with a real life case: a hotel availability request.
 
